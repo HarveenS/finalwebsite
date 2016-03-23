@@ -1,6 +1,13 @@
 $(document).ready(function(){
-	$('body.charlie').change('url(img/charlie-1.1.jpg)'){
-		$('.background').css('url(img/charlie2nd.jpg)')};
+	$("#book1").click() {
+		$('.modal-content b1').css('display', 'block');
+	}
+	
+	
+	
+	
+	//$('body.charlie').change('url(img/charlie-1.1.jpg)'){
+	//	$('.background').css('url(img/charlie2nd.jpg)')};
 	
 });
 	
