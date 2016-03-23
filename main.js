@@ -4,19 +4,8 @@ $(document).ready(function(){
 	
 });
 	
-	//function func() {
-      //  document.body.charlie.id = "background"+int;
-        //int++;
-        //if(int === frames) { int = 1; }
-   
-    
-   // var swap = window.setInterval(func, interval);
-// }
 
-// run(5000, 2); //milliseconds, frames
-// }
 
-	
 	//$('.data-book1').click(function() {
 	//	$('.modal-content').css('display', 'block');
 	//$('.modal-content').click(function() {
